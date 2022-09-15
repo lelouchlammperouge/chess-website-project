@@ -1,0 +1,10 @@
+My website is about chess
+it would talk about different aspects of chess.
+The website will teach about the pieces 
+it will tlak about certain very popular openings in chess
+there will be questions at the end of the website.
+1. What is the most important piece in the game
+2. What piece is on the A2 square at the begining of the game
+3. How many squares are there in chess (black side)
+4. What piece can move in an L
+5. Which piece can be promoted
