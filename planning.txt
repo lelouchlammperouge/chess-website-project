@@ -8,3 +8,25 @@ there will be questions at the end of the website.
 3. How many squares are there in chess (black side)
 4. What piece can move in an L
 5. Which piece can be promoted
+
+
+//important
+function calculate() {
+  if (question1 === 1) {
+    document.getElementById("a1").innerHTML = "correct";
+  } else if (question1 !== 1) {
+    document.getElementById("a1").innerHTML = "incorrect";
+  } else if (question2 === 64) {
+    document.getElementById("a2").innerHTML = "correct";
+  } else if (question2 !== 64) {
+    document.getElementById("a2").innerHTML = "incorrect";
+  } else if (question3 === 16) {
+    document.getElementById("a3").innerHTML = "correct";
+  } else if (question3 !== 16) {
+    document.getElementById("a3").innerHTML = "incorrect";
+  } else if (question4 === 2) {
+    document.getElementById("a4").innerHTML = "correct";
+  } else if (question4 !== 2) {
+    document.getElementById("a4").innerHTML = "incorrect";
+  }
+}

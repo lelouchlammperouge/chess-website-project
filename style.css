@@ -1,6 +1,7 @@
-body {
-  background-image: url('img/creative-idea-chess-pawn-chess-king-leadership-success-business-concept-yellow-background-website-banner-copy-space-226628847.jpg');
-
+html {
+  background: url("img/creative-idea-chess-pawn-chess-king-leadership-success-business-concept-yellow-background-website-banner-copy-space-226628847.jpg")
+    no-repeat fixed center;
+  background-size: cover;
 }
 
 body {
@@ -9,7 +10,6 @@ body {
   border-width: 0px;
   padding-left: 3mm;
   padding-right: 3mm;
-
 }
 
 p {
@@ -17,5 +17,6 @@ p {
   margin: auto;
   border-width: 0px;
   padding-left: 3mm;
-  padding-right: 3mm;  width: 600px;
+  padding-right: 3mm;
+  width: 600px;
 }
